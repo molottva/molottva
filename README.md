@@ -41,9 +41,26 @@ Telegram: https://t.me/VashStampede91
     - провел исследовательское тестирование функционала покупки тура веб-сервиса "Путешествие дня"
     - создал план по автоматизации тестирования с 53 сценариями (16 API и 37 UI тестами)
     - написал тестовый фреймворк для управления данными и проверки состояния БД, использую Faker, DBUtils
-    - автоматизировал 60 тестовых сценария (16 API и 44 UI), использую Selenide,  REST Assured, Gson
+    - автоматизировал 60 тестовых сценария (16 API и 44 UI), использую паттерн Page Object и фреймворки Selenide, REST Assured и Gson
     - подключил и настроил систему CI (AppVeyor) так, чтобы тесты запускались с подключением SUT к обеим СУБД поочередно
     - оформил 16 issue (15 баг-репортов и 1 предложение по улучшению)
     - составил отчет по результатам автоматизации с подключенным Allure
 
 # Сертификаты
+
+[Тестировщик ПО](pdf/certificate.pdf)  
+[Ручное тестирование вебприложений](pdf/certificateMQA.pdf)  
+[Java для тестировщиков](pdf/certificateJAVA.pdf)  
+[Автоматизированное тестирование](pdf/certificateAQA.pdf)
+
+[Основы верстки сайта](pdf/certificateHTML.pdf)  
+[ HTML-верстка: с нуля до первого макета](pdf/certificateHTML2.pdf)  
+[Введение в SQL и работу с базой данных](pdf/certificateSQL.pdf)  
+[Git — система контроля версий](pdf/certificateGit.pdf)
+
+[Python-разработка для начинающих](pdf/certificatePy.pdf)  
+[Первые шаги в JavaScript: создаём сайт и приложение](pdf//certificateJS.pdf)  
+[Искусственный интеллект: создайте свою первую нейросеть](pdf/certificateAI.pdf)
+
+[Тайм-менеджмент](pdf/certificateTM.pdf)  
+[Work-life balance](pdf//certificateWL.pdf)
