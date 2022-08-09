@@ -5,7 +5,7 @@
 
 # Контакты
 
-Моё резюме  
+[Моё резюме](pdf/Титов Виталий Александрович.pdf)   
 Email: molottva@list.ru  
 Telegram: https://t.me/VashStampede91
 
