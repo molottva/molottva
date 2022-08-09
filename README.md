@@ -5,7 +5,7 @@
 
 # Контакты
 
-[Моё резюме](pdf/resume.pdf)   
+Резюме: HeadHunter ([link](https://hh.ru/resume/93b799f2ff0b2664fc0039ed1f626c45454838)/[pdf](pdf/resume.pdf)), GoogleDocs ([link](https://docs.google.com/document/d/19rLszRH2wcL_BKCacJ9rkom5ApjsVvTi4HdEzlJZJqs/edit?usp=sharing)/[pdf](pdf/resume2.pdf))   
 Email: molottva@list.ru  
 Telegram: https://t.me/VashStampede91
 
