@@ -1,11 +1,10 @@
 # Обо мне
 
 Добрый день!  
-Я, Титов Виталий, начинающий тестировщик в поисках ~~поставщика багов~~ команды разработчиков для плодотворного сотрудничества с целью улучшения качества выпускаемых продуктов. 
+Я, Титов Виталий, начинающий автотестировщик джавист. 
 
 # Контакты
-
-Резюме: GoogleDocs ([link](https://docs.google.com/document/d/19rLszRH2wcL_BKCacJ9rkom5ApjsVvTi4HdEzlJZJqs/edit?usp=sharing)/[pdf](pdf/CV_Titov_Vitaly_QA_Engineer.pdf)), HeadHunter ([link](https://hh.ru/resume/93b799f2ff0b2664fc0039ed1f626c45454838)/[pdf](pdf/CV_Titov_Vitaly_QA_Engineer(HH).pdf))     
+     
 Email: molottva@list.ru  
 Telegram: https://t.me/VashStampede91
 
