@@ -64,7 +64,7 @@ Telegram: https://t.me/VashStampede91
 [Тестировщик ПО](pdf/certificate.pdf)  
 [Ручное тестирование вебприложений](pdf/certificateMQA.pdf)  
 [Java для тестировщиков](pdf/certificateJAVA.pdf)  
-[Автоматизированное тестирование на JAVA](pdf/certificateAQA.pdf)
+[Автоматизированное тестирование на JAVA](pdf/certificateAQA.pdf) 
 [Тестирование ПО: Автоматизация и Программирование. Python.Selenium](pdf/stepik-certificate-python-selenium.pdf)
 
 [Основы верстки сайта](pdf/certificateHTML.pdf)  
