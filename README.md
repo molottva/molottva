@@ -12,9 +12,7 @@ Telegram: https://t.me/VashStampede91
 
 ## Учебные проекты на курсах других платформ
 
-1. [Итоговый тестовый проект по курсу "Тестирование ПО:Автоматизация и Программирование.Python.Selenium"](https://github.com/molottva/PythonSelenium)
-
-   [Программа курса](https://stepik.org/course/120491)
+1. [Итоговый тестовый проект по курсу "Тестирование ПО:Автоматизация и Программирование.Python.Selenium"](https://github.com/molottva/PythonSelenium) ([Программа курса](https://stepik.org/course/120491))
 
    В рамках проекта:
 
@@ -67,7 +65,7 @@ Telegram: https://t.me/VashStampede91
 [Ручное тестирование вебприложений](pdf/certificateMQA.pdf)  
 [Java для тестировщиков](pdf/certificateJAVA.pdf)  
 [Автоматизированное тестирование на JAVA](pdf/certificateAQA.pdf)
-[Тестирование ПО: Автоматизация и Программирование. Python.Selenium]()
+[Тестирование ПО: Автоматизация и Программирование. Python.Selenium](pdf/stepik-certificate-python-selenium.pdf)
 
 [Основы верстки сайта](pdf/certificateHTML.pdf)  
 [ HTML-верстка: с нуля до первого макета](pdf/certificateHTML2.pdf)  
