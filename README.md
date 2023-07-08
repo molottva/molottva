@@ -10,6 +10,19 @@ Telegram: https://t.me/VashStampede91
 
 # Портфолио
 
+## Учебные проекты на курсах других платформ
+
+1. [Итоговый тестовый проект по курсу "Тестирование ПО:Автоматизация и Программирование.Python.Selenium"](https://github.com/molottva/PythonSelenium)
+
+   [Программа курса](https://stepik.org/course/120491)
+
+   В рамках проекта:
+
+    - на примере реального [сайта](https://www.shipmodeling.ru/) создал масштабируемый тестовый фреймворк по шаблону Page Object Model с использованием языка Python и фреймворков Selenium и PyTest
+    - оформил [PyTest fixture](https://github.com/molottva/PythonSelenium/blob/main/conftest.py) для создания экземпляра WebDriver (в проекте использовался ChromeDriver) перед тестом и закрытие браузера после его завершения
+    - создал подробный [helper-class](https://github.com/molottva/PythonSelenium/blob/main/helpers/logger.py) для логирования с указанием текущего времени и url и с таймерами продолжительности теста и отдельного вызываемого метода 
+    - написал [E2E smoke тест](https://github.com/molottva/PythonSelenium/blob/main/tests/test_smoke.py) на оформление заказа с проверкой работы каталога товаров, их фильтрации, работы с корзиной и итоговым оформлением заявки на покупку
+
 ## Учебные проекты на курсах Нетологии
 
 1. [Дипломная работа профессии "Тестировщик"](https://github.com/molottva/Diploma)
@@ -53,7 +66,8 @@ Telegram: https://t.me/VashStampede91
 [Тестировщик ПО](pdf/certificate.pdf)  
 [Ручное тестирование вебприложений](pdf/certificateMQA.pdf)  
 [Java для тестировщиков](pdf/certificateJAVA.pdf)  
-[Автоматизированное тестирование](pdf/certificateAQA.pdf)
+[Автоматизированное тестирование на JAVA](pdf/certificateAQA.pdf)
+[Тестирование ПО: Автоматизация и Программирование. Python.Selenium]()
 
 [Основы верстки сайта](pdf/certificateHTML.pdf)  
 [ HTML-верстка: с нуля до первого макета](pdf/certificateHTML2.pdf)  
